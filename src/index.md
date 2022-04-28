@@ -1,8 +1,6 @@
 ---
-title: Hello World
+title: Google Analytics 4
 layout: "base.njk"
 ---
-
-Hello from my website!
 
 [BBC News](https://www.bbc.co.uk/news)

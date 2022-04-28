@@ -22,8 +22,14 @@
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
 
+    <header>
+      {{ title }}
+    </header>
+
     <main>
       {{ content | safe }}
     </main>
+
+    <script src="scripts/app.js"></script>
   </body>
 </html>
